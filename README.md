@@ -5,7 +5,7 @@ Grid Layout UI of a product list including a search functionality
 **Steps to run the project**
 
 1. Download as zip or clone the repo
-2. extract the folder on download open terminal to the root directory and type npm install
+2. extract the folder or download open terminal to the root directory and type npm install
 3. then type npm run dev to run the development server to view the project on the specified url 
 
 ## UI Layout - 
