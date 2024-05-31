@@ -1,6 +1,6 @@
 # React App created with Vite 
 
-Grid Layout UI of a product list inclusing a search functionality 
+Grid Layout UI of a product list including a search functionality 
 
 **Steps to run the project**
 
