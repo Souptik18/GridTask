@@ -1,8 +1,13 @@
-# React + Vite
+# React App created with Vite 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Grid Layout UI of a product list inclusing a search functionality 
 
-Currently, two official plugins are available:
+**Steps to run the project**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Download as zip or clone the repo
+2. extract the folder on download open terminal to the root directory and type npm install
+3. then type npm run dev to run the development server to view the project on the specified url 
+
+## UI Layout - 
+
+<img width="895" alt="image" src="https://github.com/Souptik18/GridTask/assets/62500243/609ebb38-1bd3-4ed7-9fdb-a9dc665aaec9">
